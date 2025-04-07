@@ -20,7 +20,7 @@ An AI-powered quiz application built with **ReactJS**, integrating **Google’s 
    
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/QuizApp.git
+   git clone https://github.com/yourusername/QuizMaster.git
    cd QuizApp
 3. **Install dependencies:**
    ```bash
