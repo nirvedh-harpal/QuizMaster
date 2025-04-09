@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nirvedh-harpal.github.io/TestApp",
+  "homepage": "https://nirvedh-harpal.github.io/QuizMaster/",
   "name": "test",
   "version": "1.0.0",
   "description": "This Application is made by Harpal Nirvedh Santosh",
@@ -16,7 +16,6 @@
     "@testing-library/jest-dom": "*",
     "@testing-library/react": "*",
     "@testing-library/user-event": "*",
-    "gh-pages": "*",
     "react": "*",
     "react-dom": "*",
     "react-scripts": "*",
@@ -36,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
