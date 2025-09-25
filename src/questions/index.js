@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 async function fetchQuestions(topic) {
-    const apiKey = 'AIzaSyBiYR1HqQq49_76fyY1fG_Ke5KaMZypv1g';
+    const apiKey = 'AIzaSyA2QcTj7yUMlqTan3D0SEInqlUkLgwjZzc';
     const response = await axios.post(
         'https://api.gemini.com/v1/questions',  // Replace with the actual Gemini API endpoint
         {
